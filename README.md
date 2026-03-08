@@ -42,6 +42,6 @@ Extensive experiments on four benchmark datasets (CLCD, GFSW-CLCD, LuojiaSET, an
 
 ### Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/MADDRNet.git](https://github.com/YOUR_USERNAME/MADDRNet.git)
+git clone [https://github.com/wk448379-source/weihanming.git](https://github.com/wk448379-source/weihanming.git)
 cd MADDRNet
 pip install -r requirements.txt
